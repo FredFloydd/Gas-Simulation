@@ -1,5 +1,7 @@
 // Collision_Functions.cpp  This file contains functions which handle collisions between particles and walls
 
+#include "Vector_Functions.h"
+
 struct Particle{    // Define a struct containing information about the properties of each particle
     Vector pos;
     Vector vel;

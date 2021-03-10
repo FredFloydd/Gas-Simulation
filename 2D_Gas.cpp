@@ -8,8 +8,7 @@
 #include <fstream>
 #include <vector>
 
-#include "Vector_Functions.cpp"
-#include "Collision_Functions.cpp"
+#include "Collision_Functions.h"
 
 using namespace std;
 
